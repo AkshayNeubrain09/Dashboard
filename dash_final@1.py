@@ -122,7 +122,7 @@ import plotly.express as px
 
 # Instantiate our App and incorporate BOOTSTRAP theme stylesheet
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
+server = app.server
 # Incorporate data into App
 
 # Build the layout to define what will be displayed on the page
