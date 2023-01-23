@@ -1,0 +1,6 @@
+pandas
+gunicorn
+dash
+plotly
+dash_bootstrap_components
+dash_table_experiments
