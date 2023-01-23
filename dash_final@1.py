@@ -337,7 +337,7 @@ def  update_table(input_value,a,b):
 
 # Run the App
 if __name__ == '__main__':
-    app.run_server(port=8001)
+    app.run_server(port=8501)
 
 
 # In[ ]:
